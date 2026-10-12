@@ -123,3 +123,4 @@ This project is part of my data analytics portfolio and demonstrates how SQL, Py
 ✨ Thanks for visiting! If you find this project interesting, feel free to explore the repository.
 
 ⭐ If this project was helpful or inspiring, consider giving the repository a star.
+Author --- Likhitha Divvela ---
